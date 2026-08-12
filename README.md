@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Agentic AI
 
-- 🌱 I’m currently learning **Langchain,Phidata,Transformers**
+- 🌱 I’m currently working on **Langchain,Phidata,Transformers**
 
 - 💬 Ask me about **Predictive ,Prescriptive Analytics**
 
