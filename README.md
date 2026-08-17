@@ -1,26 +1,232 @@
+# 👋 Hi, I'm Arunava Chattopadhyay
 
-<h1 align="center">Hi 👋, I'm Arunava Chattopadhyay</h1>
-<h3 align="center">"Seasoned Data Scientist | 15+ Years of Expertise in Machine Learning, AI, and Big Data Solutions"</h3>
+<h3 align="center">
+Seasoned Data Scientist | 15+ Years in Machine Learning, AI & Big Data
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arryc2021&label=Profile%20views&color=0e75b6&style=flat" alt="arryc2021" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arryc2021" alt="arryc2021" /></a> </p>
-
-- 🔭 I’m currently working on Agentic AI
-
-- 🌱 I’m currently working on **Langchain,Phidata,Transformers**
-
-- 💬 Ask me about **Predictive ,Prescriptive Analytics**
-
-- 📫 How to reach me **arunava.chattopadhyay2020@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=arryc2021&label=Profile%20Views&color=blue&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img 
+    src="https://github.com/arryc2021.png"
+    width="180"
+    alt="Arunava Chattopadhyay"
+  />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arryc2021&show_icons=true&locale=en&layout=compact" alt="arryc2021" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arryc2021&show_icons=true&locale=en" alt="arryc2021" /></p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=arryc2021&theme=onedark&margin-w=10&margin-h=10"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+## 🏅 Expertise
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Science-Expert-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Machine%20Learning-15%2B%20Years-green?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Agentic%20AI-Builder-orange?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/LangChain-Advanced-yellow?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Azure%20Cloud-Architect-purple?style=for-the-badge" />
+
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 🔭 Currently building **Agentic AI Systems**
+* 🤖 Working with **LLMs, RAG, LangChain and LangGraph**
+* 🌱 Exploring **Multi-Agent Systems and AI Automation**
+* 📊 Experienced in **Machine Learning, Predictive Analytics and Big Data**
+* ☁️ Working across **Azure and Google Cloud**
+* 💬 Ask me about **AI, Machine Learning, Data Science, RAG and Agentic AI**
+* 📫 Reach me at **[arunava.chattopadhyay2020@gmail.com](mailto:arunava.chattopadhyay2020@gmail.com)**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/arunava-chattopadhyay/">
+  <img
+    src="https://img.icons8.com/color/48/linkedin.png"
+    width="45"
+    alt="LinkedIn"
+  />
+</a>
+
+   
+
+<a href="mailto:arunava.chattopadhyay2020@gmail.com">
+  <img
+    src="https://img.icons8.com/color/48/gmail-new.png"
+    width="45"
+    alt="Gmail"
+  />
+</a>
+
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+
+<a href="https://www.python.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/>
+</a>
+
+<a href="https://pytorch.org/">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" alt="PyTorch"/>
+</a>
+
+<a href="https://www.tensorflow.org/">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" alt="TensorFlow"/>
+</a>
+
+<a href="https://cloud.google.com/">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" alt="Google Cloud"/>
+</a>
+
+<a href="https://azure.microsoft.com/">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" alt="Microsoft Azure"/>
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55" alt="Docker"/>
+</a>
+
+<a href="https://kubernetes.io/">
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45" alt="Kubernetes"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git"/>
+</a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB"/>
+</a>
+
+<a href="https://www.postgresql.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
+</a>
+
+<a href="https://nodejs.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js"/>
+</a>
+
+<a href="https://react.dev/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" alt="React"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=arryc2021&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+height="180"
+alt="Arunava's GitHub Stats"
+/>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=arryc2021&theme=tokyonight&hide_border=true"
+height="180"
+alt="GitHub Streak"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=arryc2021&layout=compact&theme=tokyonight&hide_border=true"
+height="180"
+alt="Top Languages"
+/>
+
+</p>
+
+---
+
+## 🤖 Current Focus
+
+```text
+🚀 Agentic AI
+🧠 Large Language Models
+🔗 LangChain & LangGraph
+📚 Retrieval-Augmented Generation
+🤖 Multi-Agent Systems
+⚙️ MLOps & LLMOps
+☁️ Cloud AI Architecture
+📊 Predictive & Prescriptive Analytics
+```
+
+---
+
+## 🚀 Agentic AI Workflows
+
+> Building autonomous AI systems that can understand documents, read SOPs, extract business rules, make decisions, validate outputs, and generate intelligent workflows.
+
+### Areas I Work On
+
+* 🤖 Agentic AI Systems
+* 🧠 Large Language Models
+* 📄 RAG Applications
+* 🔍 Vector Databases & Semantic Search
+* ⚡ LangChain & LangGraph
+* 🏗️ AI/ML Architecture
+* ☁️ Azure & Google Cloud
+* 🐳 Docker & Kubernetes
+* 📈 Machine Learning & Predictive Analytics
+* 🔄 MLOps & LLMOps
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=arryc2021&theme=tokyo-night&hide_border=true"
+alt="GitHub Contribution Graph"
+/>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+<br/>
+
+**Thanks for visiting my profile! 🚀**
+
+</p>
