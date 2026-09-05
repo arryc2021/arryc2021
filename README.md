@@ -64,15 +64,6 @@ Seasoned Data Scientist | 15+ Years in Machine Learning, AI & Big Data
 
 ## 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/arunava-chattopadhyay/">
-  <img
-    src="https://img.icons8.com/color/48/linkedin.png"
-    width="45"
-    alt="LinkedIn"
-  />
-</a>
 
    
 
