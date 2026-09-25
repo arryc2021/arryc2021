@@ -21,16 +21,7 @@ Seasoned Data Scientist | 15+ Years in Machine Learning, AI & Big Data
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=arryc2021&theme=onedark&margin-w=10&margin-h=10"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
 
 ## 🏅 Expertise
 
