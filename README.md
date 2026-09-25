@@ -202,8 +202,32 @@ alt="GitHub Contribution Graph"
 </p>
 
 ---
+### 📌 Featured Repositories
 
-<p align="center">
+## 🚀 Hybrid 8085 CPU Profiler
+8085 CPU simulation and performance analysis.
+
+👉 [View Repository](https://github.com/arryc2021/hybrid-8085-cpu-profiler)
+
+## 🤖 Order Approval Agent
+Order Approval System with ollama.
+
+👉 [View Repository](https://github.com/arryc2021/AR-Order-Approval-Agent-Ollama-Gemma-3-LangGraph-)
+
+## ☁️ Lead Automation System
+Lead Automation System with Ollama.
+
+👉 [View Repository](https://github.com/arryc2021/LeadAutomationSystemwithGemma)
+
+## 🔍 Quantum Inspired Latency Optimizer
+Quantum Inspired latency Optimizer for legacy systems.
+
+👉 [View Repository](https://github.com/arryc2021/quantum-inspired-latency-optimizer)
+
+## 📚 Tkinter based Word processor
+A Word Processor with tkinter.
+
+👉 [View Repository](https://github.com/arryc2021/Wordprocessortkinter)
 
 ### ⭐ If you like my work, consider giving a star to my repositories!
 
